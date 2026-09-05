@@ -1,5 +1,5 @@
 // --- 1. CONFIGURATION ---
-const FORMSPREE_URL = 'https://formspree.io/f/myeypqky'; 
+const FORMSPREE_URL = 'https://formspree.io/f/mjyvoqyz'; 
 
 let button = document.querySelector('.calc');
 const h1Result = document.querySelector('h1');
